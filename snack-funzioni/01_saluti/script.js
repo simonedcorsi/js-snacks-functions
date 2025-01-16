@@ -9,6 +9,6 @@ function saluta(nome) {
 }
 
 // Invoca la funzione qui e stampa il risultato in console
-console.log(saluta ('Mario'));
+console.log(saluta('Mario'));
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
